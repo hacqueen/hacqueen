@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hacqueen
+- 👀 I’m business-minded developer
+- 🌱 I’m currently working on enhancing my JS coding skills
+- 💞️ I’m running this account to share every single line of code I'm writing through this way
+- 📫 How to reach me: using maftunacreator19@gmail.com
